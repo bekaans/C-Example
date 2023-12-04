@@ -1,0 +1,8 @@
+C:\Users\Berke Kaan\Desktop\Algoritma\Algoritma\bin\Debug\Algoritma.exe.config
+C:\Users\Berke Kaan\Desktop\Algoritma\Algoritma\bin\Debug\Algoritma.exe
+C:\Users\Berke Kaan\Desktop\Algoritma\Algoritma\bin\Debug\Algoritma.pdb
+C:\Users\Berke Kaan\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berke Kaan\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.exe
+C:\Users\Berke Kaan\Desktop\Algoritma\Algoritma\obj\Debug\Algoritma.pdb
