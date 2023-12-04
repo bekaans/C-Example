@@ -1,0 +1,8 @@
+C:\Users\Berke Kaan\Desktop\UcgenProgram\UcgenProgram\bin\Debug\UcgenProgram.exe.config
+C:\Users\Berke Kaan\Desktop\UcgenProgram\UcgenProgram\bin\Debug\UcgenProgram.exe
+C:\Users\Berke Kaan\Desktop\UcgenProgram\UcgenProgram\bin\Debug\UcgenProgram.pdb
+C:\Users\Berke Kaan\Desktop\UcgenProgram\UcgenProgram\obj\Debug\UcgenProgram.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\UcgenProgram\UcgenProgram\obj\Debug\UcgenProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berke Kaan\Desktop\UcgenProgram\UcgenProgram\obj\Debug\UcgenProgram.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\UcgenProgram\UcgenProgram\obj\Debug\UcgenProgram.exe
+C:\Users\Berke Kaan\Desktop\UcgenProgram\UcgenProgram\obj\Debug\UcgenProgram.pdb
