@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdjAOmHEhiY8KGmrI5KkZbg5FlDawkR5J6xZ/EkQiaRYRuk7iGA/IbbNvkMQXnkOEMn8eS1B8ARQzdgraxZHPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Berke Kaan\\Desktop\\Ornk\\Ornk\\Ornk.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Berke Kaan\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
