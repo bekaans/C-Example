@@ -1,0 +1,8 @@
+C:\Users\Berke Kaan\Desktop\project\Loops\bin\Debug\Loops.exe.config
+C:\Users\Berke Kaan\Desktop\project\Loops\bin\Debug\Loops.exe
+C:\Users\Berke Kaan\Desktop\project\Loops\bin\Debug\Loops.pdb
+C:\Users\Berke Kaan\Desktop\project\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\project\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berke Kaan\Desktop\project\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\project\Loops\obj\Debug\Loops.exe
+C:\Users\Berke Kaan\Desktop\project\Loops\obj\Debug\Loops.pdb

@@ -1,0 +1,8 @@
+C:\Users\Berke Kaan\Desktop\FibonacciOrt\FibonacciOrt\bin\Debug\FibonacciOrt.exe.config
+C:\Users\Berke Kaan\Desktop\FibonacciOrt\FibonacciOrt\bin\Debug\FibonacciOrt.exe
+C:\Users\Berke Kaan\Desktop\FibonacciOrt\FibonacciOrt\bin\Debug\FibonacciOrt.pdb
+C:\Users\Berke Kaan\Desktop\FibonacciOrt\FibonacciOrt\obj\Debug\FibonacciOrt.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\FibonacciOrt\FibonacciOrt\obj\Debug\FibonacciOrt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berke Kaan\Desktop\FibonacciOrt\FibonacciOrt\obj\Debug\FibonacciOrt.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\FibonacciOrt\FibonacciOrt\obj\Debug\FibonacciOrt.exe
+C:\Users\Berke Kaan\Desktop\FibonacciOrt\FibonacciOrt\obj\Debug\FibonacciOrt.pdb

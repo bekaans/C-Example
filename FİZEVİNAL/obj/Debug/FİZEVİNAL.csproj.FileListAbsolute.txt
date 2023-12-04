@@ -1,0 +1,8 @@
+C:\Users\Berke Kaan\Desktop\project\FİZEVİNAL\bin\Debug\FİZEVİNAL.exe.config
+C:\Users\Berke Kaan\Desktop\project\FİZEVİNAL\bin\Debug\FİZEVİNAL.exe
+C:\Users\Berke Kaan\Desktop\project\FİZEVİNAL\bin\Debug\FİZEVİNAL.pdb
+C:\Users\Berke Kaan\Desktop\project\FİZEVİNAL\obj\Debug\FİZEVİNAL.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\project\FİZEVİNAL\obj\Debug\FİZEVİNAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berke Kaan\Desktop\project\FİZEVİNAL\obj\Debug\FİZEVİNAL.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\project\FİZEVİNAL\obj\Debug\FİZEVİNAL.exe
+C:\Users\Berke Kaan\Desktop\project\FİZEVİNAL\obj\Debug\FİZEVİNAL.pdb
