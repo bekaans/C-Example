@@ -1,0 +1,8 @@
+C:\Users\Berke Kaan\Desktop\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Berke Kaan\Desktop\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Berke Kaan\Desktop\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Berke Kaan\Desktop\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berke Kaan\Desktop\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Berke Kaan\Desktop\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

@@ -1,0 +1,8 @@
+C:\Users\Berke Kaan\Desktop\CollectionsAndGenericList\CollectionsAndGenericList\obj\Debug\CollectionsAndGenericList.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\CollectionsAndGenericList\CollectionsAndGenericList\obj\Debug\CollectionsAndGenericList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berke Kaan\Desktop\CollectionsAndGenericList\CollectionsAndGenericList\obj\Debug\CollectionsAndGenericList.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\CollectionsAndGenericList\CollectionsAndGenericList\bin\Debug\CollectionsAndGenericList.exe.config
+C:\Users\Berke Kaan\Desktop\CollectionsAndGenericList\CollectionsAndGenericList\bin\Debug\CollectionsAndGenericList.exe
+C:\Users\Berke Kaan\Desktop\CollectionsAndGenericList\CollectionsAndGenericList\bin\Debug\CollectionsAndGenericList.pdb
+C:\Users\Berke Kaan\Desktop\CollectionsAndGenericList\CollectionsAndGenericList\obj\Debug\CollectionsAndGenericList.exe
+C:\Users\Berke Kaan\Desktop\CollectionsAndGenericList\CollectionsAndGenericList\obj\Debug\CollectionsAndGenericList.pdb
